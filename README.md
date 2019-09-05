@@ -1,4 +1,4 @@
-Script para Ensaios de Proficiência
+Scripts para o Ensaio de Proficiência em Software (Lainf/Inmetro)
 
 # comparaRelatorios.py
 O script comparaRelatorios.py compara dois arquivos xml no formato de 
